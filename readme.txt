@@ -3,4 +3,4 @@ hello!!
 yes£¡£¡
 commit fileContent to origin master£¡£¡
 add a dev
-add a master
+add a master and feature
